@@ -1,0 +1,16 @@
+__pycache__/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.env
+.venv
+.vscode
+result.csv
+temp.json
+logs
+test.py
+temp2.json
+.vscode
+*.log
